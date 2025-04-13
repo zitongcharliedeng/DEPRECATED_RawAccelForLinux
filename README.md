@@ -1,3 +1,6 @@
+
+Deprecated by the excellent kernel level driver @ https://www.maccel.org/. 
+
 # RawAccelForLinux
 
 ## Problems
